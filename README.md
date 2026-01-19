@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hej, jeg er Phong Le Duc
 
-<!--
-**Phong-Le-Duc/Phong-Le-Duc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend-udvikler med passion for moderne webteknologier, brugervenlighed og flotte løsninger.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Mine kompetencer
+
+- **React** & **TypeScript**
+- **Tailwind CSS**
+- **Vite**
+- **Formik & Yup** (formularhåndtering og validering)
+- **State management** med React Hooks
+- **Responsivt design**
+- **Git & GitHub**
+- **God kodekvalitet** (ESLint, Prettier)
+
+---
+
+## 🚀 Udvalgte projekter
+
+- [**Din Mægler** – Ejendomsmægler app](https://github.com/Phong-Le-Duc/dinmaegler-Phong-Le-Duc)  
+  Moderne webapp med login, favoritfunktion, galleri, kontaktformular og meget mere.
+
+<!-- Tilføj flere projekter her hvis du ønsker -->
+
+---
+
+## 📫 Kontakt
+
+- **Mail:** phongleduc@gmail.com
+- **LinkedIn:** [linkedin.com/in/phong-le-duc](https://www.linkedin.com/in/phong-le-duc)
+
+---
+
+*Tak fordi du kigger forbi min GitHub!*
