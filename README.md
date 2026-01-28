@@ -30,7 +30,7 @@ Derudover har jeg en professionsbachelor i Digital Konceptudvikling, som styrker
   Biograf webapp med booking, brugerstyring, og moderne design.
   <br>**Mobile only**
 
-  - [**Kitchen Staff Recruitment**](https://papaya-treacle-3ae853.netlify.app)  
+- [**Kitchen Staff Recruitment**](https://papaya-treacle-3ae853.netlify.app)  
   Rekrutteringsfirma for køkkenpersonale.  
   <br>Lavet KUN med HTML og CSS, med fokus på responsivitet (desktop og mobil, ikke landscape på tablet).  
   <br>Udarbejdet under grundforløbet, hvor andet værktøj endnu ikke var lært.
