@@ -12,7 +12,7 @@ Derudover har jeg en professionsbachelor i Digital Konceptudvikling, som styrker
 - **React** & **TypeScript**
 - **Tailwind CSS**
 - **Vite**
-- **Formik & Yup** (formularhåndtering og validering)
+- **ZOD** (formularhåndtering og validering)
 - **State management** med React Hooks
 - **Responsivt design**
 - **Git & GitHub**
