@@ -1,60 +1,62 @@
-# 👋 Hej, jeg er Phong Le Duc
+# 👋 Hej, jeg er [Dit Navn]  
 
-Frontend-udvikler med passion for moderne webteknologier, brugervenlighed og visuelt stærke løsninger.
-Jeg er uddannet frontend-udvikler fra Roskilde Tekniske Skole og har samtidig opbygget grundlæggende back-end erfaring, hvilket giver mig en solid forståelse for hele webstacken.
+Jeg er web‑udvikler med interesse for frontend og moderne webteknologier.  
+Jeg bygger stadig min erfaring, men arbejder aktivt med projekter og forbedrer mine færdigheder hver dag 🚀
 
-Derudover har jeg en professionsbachelor i Digital Konceptudvikling, som styrker mit arbejde med brugeroplevelse, idéudvikling og digitale løsninger, der både fungerer teknisk og forretningsmæssigt.
+---
 
-## 💻 Mine kompetencer
+## 🛠 Tech Stack
 
-Jeg har erfaring med frontend- og webudvikling og arbejder løbende på at udvide mine færdigheder:
+💻 Frontend  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+
+🧰 Backend & Databaser  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+
+🧪 Kodekvalitet & Test  
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=black)
+![Testning](https://img.shields.io/badge/-JS%20Testing-Informational?logo=javascript)
+
+🔧 Værktøjer  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+---
+
+## 📌 Kompetencer
 
 ### Frontend
-- **JavaScript / TypeScript**  
-- **React**  
-- **State management** med React Hooks  
-- **Tailwind CSS**  
-- **Responsivt design**  
-- **Vite**  
-- **Next.js**  
-- **ZOD** (formularhåndtering og validering)  
-- **Git & GitHub**  
-- **God kodekvalitet** (ESLint, Prettier)  
-- **JavaScript-kodetestning** (egne små tests af funktionalitet)  
+- JavaScript / TypeScript  
+- React  
+- State management med React Hooks  
+- Tailwind CSS  
+- Responsivt design  
+- Vite  
+- Next.js  
+- ZOD (formularhåndtering og validering)  
+- JavaScript‑kodetestning (egne små tests)  
 
-### Grundlæggende backend og database viden
-- **Node.js**  
-- **Prisma (ORM)**  
-- **Relationelle databaser** (MySQL, grundlæggende SQL / CRUD)  
-- **Postman (API-test)**  
-
+### Grundlæggende backend & databaser
+- Node.js  
+- Prisma (ORM)  
+- Relationelle databaser (MySQL, grundlæggende SQL / CRUD)  
+- Postman (API‑test)
 
 ---
 
-## 🚀 Udvalgte projekter
+## 🔗 Find mig her
 
-- [**Din Mægler** – Ejendomsmægler app](https://github.com/Phong-Le-Duc/dinmaegler-Phong-Le-Duc)  
-  Moderne webapp med login, favoritfunktion, galleri, kontaktformular og meget mere.  
-  **Desktop only**
-
-- [**Phongs Cinema App** – Biograf projekt](https://github.com/Phong-Le-Duc/Phongs-cinema-app)  
-  Biograf webapp med booking, brugerstyring, og moderne design.
-  **Mobile only**
-
-- [**Kitchen Staff Recruitment**](https://papaya-treacle-3ae853.netlify.app)  
-  Rekrutteringsfirma for køkkenpersonale.  
-  Lavet KUN med HTML og CSS, med fokus på responsivitet (desktop og mobil, ikke landscape på tablet).  
-  Udarbejdet under grundforløbet, hvor andet værktøj endnu ikke var lært.
-  
-<!-- Tilføj flere projekter her hvis du ønsker -->
+✉️  [Link til din portefølje / personlige site]  
+📬  [Link til LinkedIn]  
 
 ---
 
-## 📫 Kontakt
-
-- **Mail:** phongleduc@gmail.com
-- **LinkedIn:** [linkedin.com/in/phong-le-duc](https://www.linkedin.com/in/phong-le-duc)
-
----
-
-*Tak fordi du kigger forbi min GitHub!*
