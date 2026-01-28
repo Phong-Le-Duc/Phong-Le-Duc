@@ -1,7 +1,8 @@
 # 👋 Hej, jeg er [Dit Navn]  
 
-Jeg er web‑udvikler med interesse for frontend og moderne webteknologier.  
-Jeg bygger stadig min erfaring, men arbejder aktivt med projekter og forbedrer mine færdigheder hver dag 🚀
+Frontend-udvikler med passion for moderne webteknologier, brugervenlighed og visuelt stærke løsninger.
+Uddannet fra Roskilde Tekniske Skole med grundlæggende backend-viden og en professionsbachelor i Digital Konceptudvikling, hvilket giver mig forståelse for hele webstacken og fokus på brugeroplevelse.
+Jeg er vidensbegærlig og arbejder aktivt på projekter for løbende at udvikle mine færdigheder 🚀
 
 ---
 
@@ -32,24 +33,22 @@ Jeg bygger stadig min erfaring, men arbejder aktivt med projekter og forbedrer m
 
 ---
 
-## 📌 Kompetencer
+## 🚀 Udvalgte projekter
 
-### Frontend
-- JavaScript / TypeScript  
-- React  
-- State management med React Hooks  
-- Tailwind CSS  
-- Responsivt design  
-- Vite  
-- Next.js  
-- ZOD (formularhåndtering og validering)  
-- JavaScript‑kodetestning (egne små tests)  
+- [**Din Mægler** – Ejendomsmægler app](https://github.com/Phong-Le-Duc/dinmaegler-Phong-Le-Duc)  
+  Moderne webapp med login, favoritfunktion, galleri, kontaktformular og meget mere.  
+  **Desktop only**
 
-### Grundlæggende backend & databaser
-- Node.js  
-- Prisma (ORM)  
-- Relationelle databaser (MySQL, grundlæggende SQL / CRUD)  
-- Postman (API‑test)
+- [**Phongs Cinema App** – Biograf projekt](https://github.com/Phong-Le-Duc/Phongs-cinema-app)  
+  Biograf webapp med booking, brugerstyring, og moderne design.
+  **Mobile only**
+
+- [**Kitchen Staff Recruitment**](https://papaya-treacle-3ae853.netlify.app)  
+  Rekrutteringsfirma for køkkenpersonale.  
+  Lavet KUN med HTML og CSS, med fokus på responsivitet (desktop og mobil, ikke landscape på tablet).  
+  Udarbejdet under grundforløbet, hvor andet værktøj endnu ikke var lært.
+  
+<!-- Tilføj flere projekter her hvis du ønsker -->
 
 ---
 
