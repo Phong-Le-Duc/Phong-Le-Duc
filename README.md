@@ -9,12 +9,15 @@ Derudover har jeg en professionsbachelor i Digital Konceptudvikling, som styrker
 
 ## 💻 Mine kompetencer
 
-- **React** & **TypeScript**
-- **Tailwind CSS**
-- **Vite**
-- **ZOD** (formularhåndtering og validering)
+-  **Javascript/TypeScript**
+- **React**
 - **State management** med React Hooks
+- **Tailwind CSS**
 - **Responsivt design**
+- **Vite**
+- **Next.js**
+- **Node.js** 
+- **ZOD** (formularhåndtering og validering)
 - **Git & GitHub**
 - **God kodekvalitet** (ESLint, Prettier)
 
