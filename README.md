@@ -25,6 +25,9 @@ Derudover har jeg en professionsbachelor i Digital Konceptudvikling, som styrker
 - [**Din Mægler** – Ejendomsmægler app](https://github.com/Phong-Le-Duc/dinmaegler-Phong-Le-Duc)  
   Moderne webapp med login, favoritfunktion, galleri, kontaktformular og meget mere.
 
+- [**Phongs Cinema App** – Biograf projekt](https://github.com/Phong-Le-Duc/Phongs-cinema-app)  
+  Biograf webapp med booking, brugerstyring, og moderne design.
+  
 <!-- Tilføj flere projekter her hvis du ønsker -->
 
 ---
