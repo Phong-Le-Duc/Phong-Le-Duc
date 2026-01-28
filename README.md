@@ -20,9 +20,8 @@ Derudover har jeg en professionsbachelor i Digital Konceptudvikling, som styrker
 - **Git & GitHub**
 - **God kodekvalitet** (ESLint, Prettier)
 - **JavaScript-kodetestning (egne små tests af funktionalitet)**
-
+  <br>
   ##Grundlæggende backend og databaser viden:
-
 -  **Relationelle databaser (MySQL, grundlæggende SQL / CRUD)**
 -  **Node.js**
 -  **Prisma (ORM)**
