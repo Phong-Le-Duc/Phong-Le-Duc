@@ -22,7 +22,7 @@ Jeg har erfaring med frontend- og webudvikling og arbejder løbende på at udvid
 - **God kodekvalitet** (ESLint, Prettier)  
 - **JavaScript-kodetestning** (egne små tests af funktionalitet)  
 
-### Grundlæggende backend og databaser
+### Grundlæggende backend og database viden
 - **Node.js**  
 - **Prisma (ORM)**  
 - **Relationelle databaser** (MySQL, grundlæggende SQL / CRUD)  
