@@ -55,6 +55,7 @@ Jeg er vidensbegærlig og arbejder aktivt på projekter for løbende at udvikle 
 ## 🔗 kontak mig endelig her
 
 ✉️ phongleduc@gmail.com
+<br>
 Tlf: 42582561
 
 ---
