@@ -52,10 +52,10 @@ Jeg er vidensbegærlig og arbejder aktivt på projekter for løbende at udvikle 
 
 ---
 
-## 🔗 Find mig her
+## 🔗 kontak mig endelig her
 
-✉️  [Link til din portefølje / personlige site]  
-📬  [Link til LinkedIn]  
+✉️ phongleduc@gmail.com
+Tlf: 42582561
 
 ---
 
