@@ -1,4 +1,4 @@
-# 👋 Hej, jeg er [Dit Navn]  
+# 👋 Hej, jeg er Phong Le Duc 
 
 Frontend-udvikler med passion for moderne webteknologier, brugervenlighed og visuelt stærke løsninger.
 Uddannet fra Roskilde Tekniske Skole med grundlæggende backend-viden og en professionsbachelor i Digital Konceptudvikling, hvilket giver mig forståelse for hele webstacken og fokus på brugeroplevelse.
