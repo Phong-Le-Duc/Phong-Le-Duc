@@ -35,13 +35,18 @@ Jeg er vidensbegærlig og arbejder aktivt på projekter for løbende at udvikle 
 
 ## 🚀 Udvalgte projekter
 
-- [**Din Mægler** – Ejendomsmægler app](https://github.com/Phong-Le-Duc/dinmaegler-Phong-Le-Duc)  
-  Moderne webapp med login, favoritfunktion, galleri, kontaktformular og meget mere.  
-  **Desktop only**
 
 - [**Phongs Cinema App** – Biograf projekt](https://github.com/Phong-Le-Duc/Phongs-cinema-app)  
   Biograf webapp med booking, brugerstyring, og moderne design.
   **Mobile only**
+
+
+- [**Din Mægler** – Ejendomsmægler app](https://github.com/Phong-Le-Duc/dinmaegler-Phong-Le-Duc)  
+  Moderne webapp med login, favoritfunktion, galleri, kontaktformular og meget mere.  
+  **Desktop only**
+
+
+
 
 - [**Kitchen Staff Recruitment**](https://papaya-treacle-3ae853.netlify.app)  
   Rekrutteringsfirma for køkkenpersonale.  
