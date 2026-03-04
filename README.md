@@ -4,6 +4,12 @@ Frontend-udvikler med passion for moderne webteknologier, brugervenlighed og vis
 Uddannet fra Roskilde Tekniske Skole med grundlæggende backend-viden og en professionsbachelor i Digital Konceptudvikling, hvilket giver mig forståelse for hele webstacken og fokus på brugeroplevelse.
 Jeg er vidensbegærlig og arbejder aktivt på projekter for løbende at udvikle mine færdigheder 🚀
 
+## 🎥 Mød mig kort
+Klik på billedet for at se min 1-min introduktionsvideo:
+
+[![Se video](https://vumbnail.com/1161750448.jpg)](https://vimeo.com/1161750448)
+
+
 ---
 
 ## 🛠 Tech Stack
