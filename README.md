@@ -50,7 +50,7 @@ Jeg er vidensbegærlig og arbejder aktivt på projekter for løbende at udvikle 
   Moderne webapp med klassetimebooking, instruktørstyring, og brugerprofiler.
   
 - [**Landrup Dans API**](https://github.com/Phong-Le-Duc/landrup-dans-API)  
-  RESTful API.
+  **RESTful web API for the Landrup Dans App**
 
 - [**Kitchen Staff Recruitment**](https://papaya-treacle-3ae853.netlify.app)  
   Rekrutteringsfirma for køkkenpersonale.  
