@@ -46,7 +46,7 @@ Jeg er vidensbegærlig og arbejder aktivt på projekter for løbende at udvikle 
   **Desktop only**
    **Note:** API may take a moment to start up on first request if it hasn't been used recently.
 
-- [**Landrup Dans** – Danseskole booking app](https://github.com/Phong-Le-Duc/landrup-dans)  
+- [**Landrup Dans App** – Danseskole booking app](https://github.com/Phong-Le-Duc/landrup-dans)  
   Moderne webapp med klassetimebooking, instruktørstyring, og brugerprofiler.
   
 - [**Landrup Dans API**](https://github.com/Phong-Le-Duc/landrup-dans-API)  
