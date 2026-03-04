@@ -44,9 +44,13 @@ Jeg er vidensbegærlig og arbejder aktivt på projekter for løbende at udvikle 
 - [**Din Mægler** – Ejendomsmægler app](https://github.com/Phong-Le-Duc/dinmaegler-Phong-Le-Duc)  
   Moderne webapp med login, favoritfunktion, galleri, kontaktformular og meget mere.  
   **Desktop only**
+   **Note:** API may take a moment to start up on first request if it hasn't been used recently.
 
--https://github.com/Phong-Le-Duc/landrup-dans
-
+- [**Landrup Dans** – Danseskole booking app](https://github.com/Phong-Le-Duc/landrup-dans)  
+  Moderne webapp med klassetimebooking, instruktørstyring, og brugerprofiler.
+  
+- [**Landrup Dans API**](https://github.com/Phong-Le-Duc/landrup-dans-API)  
+  RESTful API.
 
 - [**Kitchen Staff Recruitment**](https://papaya-treacle-3ae853.netlify.app)  
   Rekrutteringsfirma for køkkenpersonale.  
