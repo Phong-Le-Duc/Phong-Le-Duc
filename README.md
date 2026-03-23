@@ -15,17 +15,14 @@ Klik på billedet for at se min 1-min introduktionsvideo:
 
 ## 🚀 Udvalgte projekter
 
-- [**Believe Fitness App**](https://github.com/Phong-Le-Duc/BelieveFitness) og [**API**](https://github.com/Phong-Le-Duc/believeFitness-api)   
+- [**Believe Fitness App**](https://github.com/Phong-Le-Duc/BelieveFitness) + [**API**](https://github.com/Phong-Le-Duc/believeFitness-api)   
   Moderne fitness-app med holdbooking, brugerprofiler. Bygget med Next.js, React og Tailwind.
-  **Mobile only**
-
-- [**API**](https://github.com/Phong-Le-Duc/believeFitness-api)  
-  **RESTful web API til Believe Fitness**
+  **Platform:** Mobile only
 
 
 - [**Cinema App** – Biograf projekt](https://github.com/Phong-Le-Duc/Phongs-cinema-app)  
   Biograf webapp med booking, brugerstyring, og moderne design.
-  **Mobile only**
+   **Platform:** Mobile only
 
 
 - [**Din Mægler** – Ejendomsmægler app](https://github.com/Phong-Le-Duc/dinmaegler-Phong-Le-Duc)  
