@@ -25,10 +25,9 @@ Klik på billedet for at se min 1-min introduktionsvideo:
   **Platform:** Mobile only
 
 
-- [**Din Mægler** – Ejendomsmægler app](https://github.com/Phong-Le-Duc/dinmaegler-Phong-Le-Duc)  
-  Moderne webapp med login, favoritfunktion, galleri, kontaktformular og meget mere.      
+- [**Din Mægler** – Ejendomsmægler app](https://github.com/Phong-Le-Duc/dinmaegler-Phong-Le-Duc)      
+    **Note:** API’et er hostet på Render og kan tage et øjeblik at starte op ved første forespørgsel, hvis det ikke har været brugt for nylig.    Moderne webapp med login, favoritfunktion, galleri, kontaktformular og meget mere.      
    **Platform:** Desktop only
-  **Note:** API’et er hostet på Render og kan tage et øjeblik at starte op ved første forespørgsel, hvis det ikke har været brugt for nylig.
 
 - [**Landrup Dans App** – Danseskole booking app](https://github.com/Phong-Le-Duc/landrup-dans) + [**API**](https://github.com/Phong-Le-Duc/landrup-dans-API)  
   Moderne webapp med klassetimebooking, instruktørstyring, og brugerprofiler.
