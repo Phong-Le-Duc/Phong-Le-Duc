@@ -15,11 +15,11 @@ Klik på billedet for at se min 1-min introduktionsvideo:
 
 ## 🚀 Udvalgte projekter
 
-- [**Believe Fitness App**](https://github.com/Phong-Le-Duc/BelieveFitness) og API (https://github.com/Phong-Le-Duc/believeFitness-api) 
+- [**Believe Fitness App**](https://github.com/Phong-Le-Duc/BelieveFitness) og [**API**](https://github.com/Phong-Le-Duc/believeFitness-api)   
   Moderne fitness-app med holdbooking, brugerprofiler. Bygget med Next.js, React og Tailwind.
   **Mobile only**
 
-- [**Believe Fitness API**](https://github.com/Phong-Le-Duc/believeFitness-api)  
+- [**API**](https://github.com/Phong-Le-Duc/believeFitness-api)  
   **RESTful web API til Believe Fitness**
 
 
