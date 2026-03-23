@@ -73,7 +73,7 @@ Klik på billedet for at se min 1-min introduktionsvideo:
 
 ---
 
-## 🔗 kontak mig endelig her
+## 🔗 kontakt mig endelig her
 
 ✉️ phongleduc@gmail.com
 <br>
