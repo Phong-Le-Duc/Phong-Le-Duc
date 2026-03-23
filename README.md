@@ -15,7 +15,7 @@ Klik på billedet for at se min 1-min introduktionsvideo:
 
 ## 🚀 Udvalgte projekter
 
-- [**Phongs Believe Fitness App**]([https://github.com/Phong-Le-Duc/BelieveFitness])
+- [**Phongs Believe Fitness App**](https://github.com/Phong-Le-Duc/BelieveFitness)
   Moderne fitness-app med holdbooking, brugerprofiler. Bygget med Next.js, React og Tailwind.
   **Mobile only**
 
