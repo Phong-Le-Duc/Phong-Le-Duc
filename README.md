@@ -21,23 +21,25 @@ Klik på billedet for at se min 1-min introduktionsvideo:
 
 
 - [**Cinema App** – Biograf projekt](https://github.com/Phong-Le-Duc/Phongs-cinema-app)  
-  Biograf webapp med booking, brugerstyring, og moderne design.
+  Biograf webapp med booking, brugerstyring, og moderne design.    
   **Platform:** Mobile only
 
 
 - [**Din Mægler** – Ejendomsmægler app](https://github.com/Phong-Le-Duc/dinmaegler-Phong-Le-Duc)  
-  Moderne webapp med login, favoritfunktion, galleri, kontaktformular og meget mere.  
-  **Desktop only**
+  Moderne webapp med login, favoritfunktion, galleri, kontaktformular og meget mere.      
+   **Platform:** Desktop only
   **Note:** API’et er hostet på Render og kan tage et øjeblik at starte op ved første forespørgsel, hvis det ikke har været brugt for nylig.
 
 - [**Landrup Dans App** – Danseskole booking app](https://github.com/Phong-Le-Duc/landrup-dans) + [**API**](https://github.com/Phong-Le-Duc/landrup-dans-API)  
   Moderne webapp med klassetimebooking, instruktørstyring, og brugerprofiler.
+    **Platform:** Mobile only
  
 
 - [**Kitchen Staff Recruitment**](https://papaya-treacle-3ae853.netlify.app)  
   Rekrutteringsfirma for køkkenpersonale.  
-  Lavet KUN med HTML og CSS, med fokus på responsivitet (desktop og mobil, ikke landscape på tablet).  
-  Udarbejdet under grundforløbet, hvor andet værktøj endnu ikke var lært.
+  Lavet KUN med HTML og CSS, med fokus på responsivitet.      
+  Udarbejdet under grundforløbet, hvor andet værktøj endnu ikke var lært.    
+    **Platform:** Desktop og mobil.
   
 <!-- Tilføj flere projekter her hvis du ønsker -->
 
