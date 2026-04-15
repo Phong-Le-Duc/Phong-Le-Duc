@@ -5,7 +5,7 @@ Uddannet fra Roskilde Tekniske Skole med grundlæggende backend-viden og en prof
 Jeg er vidensbegærlig og arbejder aktivt på projekter for løbende at udvikle mine færdigheder 🚀
 
 ## 🎥 Mød mig kort
-Klik på billedet for at se min 1-minutters introduktion til mig som person:
+Klik på billedet for at se en kort introduktion til mig som person:
 
 [![Se video](https://vumbnail.com/1161750448.jpg)](https://vimeo.com/1161750448)
 
